@@ -270,13 +270,14 @@ header.masthead {
 }
 
 #header {
-  position: relative;
-  min-height: 100%;
+  position: absolute;
+  min-height: 100%; 
 }
 
 #header-content {
-  position: fixed;
-  /*min-height: 70%;*/
+  margin-top: 30%;
+  position: relative;
+  min-height: 70%;
   padding: 1%;
 
   bottom: 0;
