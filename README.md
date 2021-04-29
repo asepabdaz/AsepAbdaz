@@ -12,3 +12,6 @@ I'm iOS Developepr
 <br>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=asepabdaz)
 <!-- TODO: Add last video link -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asepabdaz&show_icons=true&theme=chartreuse-dark)
+<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asepabdaz&repo=Play&theme=chartreuse-dark)](https://github.com/asepabdaz/Play)
